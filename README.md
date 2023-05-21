@@ -1,2 +1,2 @@
-# C-_Basic_Programs
+# C++ Solutions
 C++ Basic Programs 
