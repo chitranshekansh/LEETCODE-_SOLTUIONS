@@ -1,2 +1,2 @@
 # C++ Solutions
-C++ Basic Programs 
+LEETCODE SOLUTIONS
